@@ -1,0 +1,6 @@
+pandas
+numpy
+lxml
+matplotlib
+scipy
+traci
